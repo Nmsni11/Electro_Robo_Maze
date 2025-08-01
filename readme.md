@@ -1,10 +1,10 @@
 # Electro Robo Maze 
 
-An autonomous mini-robot that explores and solves mazes using ultrasonic sensors, dual motors, and smart decision-making—all built from modular electronics and programmed with logic-based behavior trees.
+An autonomous mini-robot that explores and solves mazes using ultrasonic sensors, dual motors, and smart decision-making, all built from modular electronics and programmed with logic-based behavior trees.
 
 ## Why I Made This Project
 
-I’ve always been fascinated by robots that can think ahead—or at least appear to. So I set out to build a robot that could read its surroundings, decide how to move, and complete mazes on its own. This wasn’t just about movement; it was about decision flow, balance, and making hardware act with purpose.
+I’ve always been fascinated by robots that can think ahead, or at least appear to. So I set out to build a robot that could read its surroundings, decide how to move, and complete mazes on its own. This wasn’t just about movement; it was about decision flow, balance, and making hardware act with purpose.
 
 ## Project Images
 - ![alt text](image1.png) 
