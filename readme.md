@@ -8,7 +8,8 @@ I’ve always been fascinated by robots that can think ahead, or at least appear
 
 ## Project Images
 - ![alt text](photos/image1.png) 
-- ![alt text](photos/image2.png) 
+- ![alt text](photos/image2.png)
+- ![alt text](photos/image4.png) 
 
 ## Bill of Materials (BOM)
 
@@ -30,4 +31,5 @@ I’ve always been fascinated by robots that can think ahead, or at least appear
 **Total Cost = $310**
 
 ---
+
 
