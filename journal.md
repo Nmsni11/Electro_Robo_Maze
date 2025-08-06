@@ -84,16 +84,17 @@ Final day. I tested the robot in a full maze run with all features active. It na
 ---
 
 ## Images
-- ![alt text](image1.png) 
-- ![alt text](image2.png) 
-- ![alt text](image3.png) 
-- ![alt text](image4.png) 
-- ![alt text](image5.png) 
-- ![alt text](image6.png) 
-- ![alt text](image7.png) 
-- ![alt text](image8.png) 
-- ![alt text](image9.png) 
-- ![alt text](image10.png) 
-- ![alt text](image11.png) 
-- ![alt text](image12.png) 
+- ![alt text](photos/image1.png) 
+- ![alt text](photos/image2.png) 
+- ![alt text](photos/image3.png) 
+- ![alt text](photos/image4.png) 
+- ![alt text](photos/image5.png) 
+- ![alt text](photos/image6.png) 
+- ![alt text](photos/image7.png) 
+- ![alt text](photos/image8.png) 
+- ![alt text](photos/image9.png) 
+- ![alt text](photos/image10.png) 
+- ![alt text](photos/image11.png) 
+- ![alt text](photos/image12.png) 
+
 
