@@ -1,6 +1,6 @@
 ---
 title: "Electro Robo Maze"
-author: "Abdelsalam Aref Mahmoud Abdellah"
+author: "John"
 description: "A fully autonomous robot that navigates and solves mazes using sensor-based decision-making."
 created_at: "3/6/2025"
 ---
@@ -114,3 +114,4 @@ The majority of features were implemented; I tried to de-clutter all the wiring 
 The last sixth day was a highlight of all earlier. I have assembled the complete maze--with obstacles, LEDs, remote overide, relays and servo interaction--and put the robot through its circuits. It was even better than what I thought it would be. It was able to negotiate turns properly, deal with dead-ends, fire all the external circuitry and it showed its current status by means of the LEDs. Once I have all the wiring diagrams, readme, journal, I was intensely satisfied. This was not a project but a self-discovery of problem solving, iterating and being creative about it.
 
 ![alt text](photos/image12.png)
+
